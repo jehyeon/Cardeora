@@ -1,1 +1,4 @@
 # Cardeora
+
+### Collaborators
+- jehyeon

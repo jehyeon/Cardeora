@@ -7,3 +7,6 @@ django-react-venv
 # python
 __pycache__/
 *.py[cod]
+
+# vscode
+.vscode

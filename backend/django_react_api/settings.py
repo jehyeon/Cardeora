@@ -20,7 +20,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '6ks#&)vu3xwc-gl9hz#rfb#w@%bw_k=wmk1vjjpq5)y+@uu6mv'
+SECRET_KEY = '0*pde2fb&e3-@mk&wi6@9=qk_se%py%&o)lh(*_64ujwbv8n$2'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -122,7 +122,6 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-# rest_framework add
 REST_FRAMEWORK = {
     'DEFAULT_PERMISSION_CLASSES': [
         'rest_framework.permissions.AllowAny',

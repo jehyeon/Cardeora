@@ -2,12 +2,12 @@
 
 ## How to start
 ```
-$ virtualenv django-react-venv 
+$ virtualenv django_react_venv 
 
-$ source django-react-venv/Scripts/activate
+$ source django_react_venv/Scripts/activate
 or
 // macOS
-$ source django-react-venv/bin/activate
+$ source django_react_venv/bin/activate
 
 $ pip install -r requirements.txt
 ```
